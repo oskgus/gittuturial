@@ -1,2 +1,4 @@
 - paint
 - move furniture
+- decorate
+- change lights
